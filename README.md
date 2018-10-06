@@ -29,6 +29,11 @@ https://github.com/recruit-communications/pyqubo
 
 PIP is able to install PyQUBO, then we can use it in colaboratory. 
 
+# We can find
+some solution of equation systems in the internet.
+
+But it is too difficault for me to understand (ToT)
+
 # PyQUBOで連立方程式
 もともとCAE屋さんなので、大きな連立方手式を解くことには
 興味がありました。というか、もっとラクになるといいのになぁ、という感じ。
@@ -66,3 +71,6 @@ M(cAv) = y
 https://github.com/recruit-communications/pyqubo
 
 PyQUBOは pip でインストールできるので colaboratory でも簡単にインストールできます。
+
+# 巷では
+探せば、なんか出てくるんでしょうが、厳密に求めることを狙いすぎているような気がします。
